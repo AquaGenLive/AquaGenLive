@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there 👋
+
+👷‍♂️ I'm interested in product development mostly with
+- 💻 Java, JavaScript, HTML, CSS
+- 📱 Flutter (ObjC years ago)
 
 <!--
 **AquaGenLive/AquaGenLive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
